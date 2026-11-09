@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Studying the structure hiding inside complicated systems.</strong>
+  बकचोद
 </p>
 
 <p align="center">
