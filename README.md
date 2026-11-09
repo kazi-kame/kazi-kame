@@ -10,14 +10,7 @@
 </p>
 
 <p align="center">
-  बकचोद
-</p>
-
-<p align="center">
-  <a href="#research">Research</a> &nbsp;\u00b7&nbsp;
-  <a href="#things-ive-built">Projects</a> &nbsp;\u00b7&nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp;\u00b7&nbsp;
-  <a href="https://github.com/kazi-kame?tab=repositories">All repositories</a>
+  बकचोद | بکچود
 </p>
 
 ---
@@ -35,7 +28,7 @@ I'm especially interested in the gap between a *numerical result* and a *physica
 | System | What I'm investigating |
 | :--- | :--- |
 | **[Saturn-like atmospheric jets](https://github.com/kazi-kame/Saturn-like-jets-in-a-global-shallow-water-model)** | Global shallow-water dynamics, prescribed zonal jets, linear instability, and short-time forced response. *Not a claim of demonstrated long-term polygon formation.* |
-| **Low-Earth-orbit debris** \u00b7 ongoing research | Orbital histories, periodicity, and stochastic models for drag-driven orbital evolution. |
+| **Low-Earth-orbit debris**  ongoing research | Orbital histories, periodicity, and stochastic models for drag-driven orbital evolution. |
 | **[Quantum billiards](https://github.com/kazi-kame/QuantumLab)** | Numerical eigenmodes and time evolution in stadium-shaped quantum billiards, including scar-like structures. |
 
 ### Things I've built
@@ -49,9 +42,7 @@ I'm especially interested in the gap between a *numerical result* and a *physica
 
 ### Toolkit
 
-`Python` \u00b7 `NumPy` \u00b7 `SciPy` \u00b7 `Matplotlib` \u00b7 `Pygame` \u00b7 `Dedalus` \u00b7 `Git` \u00b7 `Linux`
-
-**Topics I keep coming back to:** nonlinear differential equations, dynamical systems, numerical methods, stochastic processes, scientific visualization, and computational physics.
+`Python`  `NumPy`  `SciPy`  `Matplotlib`  `Pygame`  `Dedalus`  `Git`  `Linux`
 
 ---
 
