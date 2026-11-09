@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Studying the structure hiding inside complicated systems.</strong>
+  <strong>बकचोद.</strong>
 </p>
 
 <p align="center">
@@ -24,11 +24,11 @@
 
 ### `> whoami`
 
-I'm **Anas Kazi**, a physics undergraduate at **Fergusson College, Pune**, also studying **data science through IIT Madras**.
+I'm **Kazi** (Anas Kazi), a physics undergraduate at **Fergusson College, Pune**, also studying **data science through IIT Madras** and isn't that a bit sad⸮
 
-I use mathematics, simulations, and data to study systems where simple equations produce unexpected behavior: **nonlinear dynamics, planetary flows, orbital evolution, deterministic chaos, and quantum mechanics**.
+I use mathematics, simulations, and data to study systems where simple equations produce unexpected behavior: **nonlinear dynamics, planetary flows, orbital evolution, deterministic chaos, and quantum mechanics**, in simpler words I _LARP_
 
-I'm especially interested in the gap between a *beautiful numerical result* and a *defensible physical conclusion*. If a pattern disappears under validation, it's not a discovery.
+I'm especially interested in the gap between a *numerical result* and a *physical conclusion*. If a pattern disappears under validation, it's not a discovery, its just a lot of my time wasted under the impression of discovery.
 
 ### Research
 
@@ -51,7 +51,7 @@ I'm especially interested in the gap between a *beautiful numerical result* and 
 
 `Python` · `NumPy` · `SciPy` · `Matplotlib` · `Pygame` · `Dedalus` · `Git` · `Linux`
 
-**Topics I keep coming back to:** nonlinear differential equations, dynamical systems, numerical methods, stochastic processes, scientific visualization, and computational physics.
+**I have a toxic relationship with:** nonlinear differential equations, dynamical systems, numerical methods, stochastic processes, scientific visualization, and computational physics.
 
 ---
 
