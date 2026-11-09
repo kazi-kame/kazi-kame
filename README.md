@@ -24,11 +24,11 @@
 
 ### `> whoami`
 
-I'm **Anas Kazi**, a physics undergraduate at **Fergusson College, Pune**, also studying **data science through IIT Madras**.
+I'm **Kazi** (Anas Kazi), a physics undergrad at **Fergusson College, Pune**, also studying **data science through IIT Madras**.
 
-I use mathematics, simulations, and data to study systems where simple equations produce unexpected behavior: **nonlinear dynamics, planetary flows, orbital evolution, deterministic chaos, and quantum mechanics**.
+I use mathematics, simulations, and data to study systems.
 
-I'm especially interested in the gap between a *beautiful numerical result* and a *defensible physical conclusion*. If a pattern disappears under validation, it's not a discovery.
+I'm especially interested in the gap between a *numerical result* and a *physical conclusion*. If a pattern disappears under validation, it's not a discovery, its just another month wasted.
 
 ### Research
 
